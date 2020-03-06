@@ -1,8 +1,6 @@
 # Python-Learning
 
-## Web Scrapper
+## 1.Web Scrapper
 
-Application
-Requests : scrap weather data and then save as csv file.
 
 
